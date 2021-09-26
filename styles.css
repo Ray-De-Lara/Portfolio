@@ -52,7 +52,10 @@ section {
   margin: 0 auto;
   padding: 0 20px;
 }
-
+.imagen > img {
+  width: 250px;
+  height: 250px;
+}
 .navbar {
   position: fixed;
   background: transparent;
