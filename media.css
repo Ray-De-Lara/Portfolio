@@ -1,7 +1,4 @@
 @media (max-width: 991px) {
-
-
-
   .navbar__menu {
     display: flex;
   }
@@ -64,7 +61,6 @@
   }
 
   .section__subtitle {
-    
     font-weight: normal;
   }
 
@@ -104,14 +100,17 @@
 }
 
 @media (max-width: 767px) {
-
-  .home__background {
+  /* .home__background {
     background-image: url(./assets/bg_responsive.webp);
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
+  } */
+  .imagen {
+    display: flex;
+    width: 250px;
+    height: 250px;
   }
-
   section {
     padding: 20px 0;
   }
@@ -149,7 +148,6 @@
     grid-template-columns: 1fr;
     gap: 20px;
   }
-
 
   .contact__grid {
     grid-template-columns: 1fr 1fr;
