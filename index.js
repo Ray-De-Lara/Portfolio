@@ -75,5 +75,5 @@ ScrollReveal().reveal(".skill__title", { delay: 600 });
 ScrollReveal().reveal(".skill__item", { delay: 600 });
 ScrollReveal().reveal(".services__item", { delay: 450 });
 ScrollReveal().reveal(".portfolio__item", { delay: 450 });
-ScrollReveal().reveal(".contact__item", { delay: 450 });
-ScrollReveal().reveal(".footer", { delay: 450 });
+// ScrollReveal().reveal(".contact__item", { delay: 450 });
+// ScrollReveal().reveal(".footer", { delay: 450 });
