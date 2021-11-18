@@ -225,6 +225,9 @@ section {
 .fa-react {
   color: #264de4;
 }
+.big-icon {
+  font-size: 60px;
+}
 
 .fa-js {
   color: #f0db4f;

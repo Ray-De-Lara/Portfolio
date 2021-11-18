@@ -1,7 +1,4 @@
 @media (max-width: 991px) {
-
-
-
   .navbar__menu {
     display: flex;
   }
@@ -64,7 +61,6 @@
   }
 
   .section__subtitle {
-    
     font-weight: normal;
   }
 
@@ -104,9 +100,7 @@
 }
 
 @media (max-width: 767px) {
-
   .home__background {
-    background-image: url(./assets/bg_responsive.webp);
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
@@ -149,7 +143,6 @@
     grid-template-columns: 1fr;
     gap: 20px;
   }
-
 
   .contact__grid {
     grid-template-columns: 1fr 1fr;
